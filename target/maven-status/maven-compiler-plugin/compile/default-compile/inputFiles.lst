@@ -1,0 +1,8 @@
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/meus-codigos/aws_kafka_ses/src/main/java/br/com/aws_kafka_consumer/App.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/meus-codigos/aws_kafka_ses/src/main/java/br/com/aws_kafka_consumer/services/ses/SESService.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/meus-codigos/aws_kafka_ses/src/main/java/br/com/aws_kafka_consumer/services/kafka/PropertiesKafkaConfig.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/meus-codigos/aws_kafka_ses/src/main/java/br/com/aws_kafka_consumer/services/ses/ByteMessage.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/meus-codigos/aws_kafka_ses/src/main/java/br/com/aws_kafka_consumer/services/kafka/KafkaServiceConsumer.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/meus-codigos/aws_kafka_ses/src/main/java/br/com/aws_kafka_consumer/services/ses/Authentication.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/meus-codigos/aws_kafka_ses/src/main/java/br/com/aws_kafka_consumer/services/ses/Configurations.java
+/Users/yhaohannah.pamela/Documents/gama-academy/modulo2/meus-codigos/aws_kafka_ses/src/main/java/br/com/aws_kafka_consumer/services/ses/SendMessage.java

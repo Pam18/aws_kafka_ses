@@ -1,0 +1,10 @@
+br/com/aws_kafka_consumer/services/ses/ByteMessage.class
+br/com/aws_kafka_consumer/services/ses/SendMessage.class
+br/com/aws_kafka_consumer/App.class
+br/com/aws_kafka_consumer/services/ses/Authentication$1.class
+br/com/aws_kafka_consumer/services/ses/SESService.class
+br/com/aws_kafka_consumer/services/kafka/PropertiesKafkaConfig.class
+br/com/aws_kafka_consumer/services/kafka/KafkaServiceConsumer.class
+br/com/aws_kafka_consumer/services/ses/Authentication.class
+br/com/aws_kafka_consumer/services/ses/Authentication$1$1.class
+br/com/aws_kafka_consumer/services/ses/Configurations.class
